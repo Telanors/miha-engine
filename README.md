@@ -36,7 +36,7 @@
 ### Интерфейс программы
 ![main](img/main.PNG)
 ![light_edit](img/light_edit.PNG)
-![material_edit](img/material_edit.jpg)
+![material_edit](img/material_edit.PNG)
 ### Пример сцены днем
 ![day](img/day.PNG)
 ### Пример сцены ночью
